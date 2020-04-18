@@ -34,7 +34,7 @@ h=ph;
 w2=pw;
 w1=w2;
 
-zz=0.15;             // gap between rollers and base (tolerance)
+zz=0.35;             // gap between rollers and base (tolerance)
 
 dr=do/2-di/2-w1*2-w2*2-zz*2;
 
